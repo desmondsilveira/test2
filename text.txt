@@ -1,0 +1,12 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 4E9B-DE9E
+
+ Directory of C:\Users\DesmondSilveira\Documents\GitHub\Test2
+
+13/07/2022  12:12    <DIR>          .
+13/07/2022  12:08    <DIR>          ..
+13/07/2022  12:08                66 .gitattributes
+13/07/2022  12:09                29 Helloworld.txt
+13/07/2022  12:12                 0 text.txt
+               3 File(s)             95 bytes
+               2 Dir(s)  58,491,588,608 bytes free
